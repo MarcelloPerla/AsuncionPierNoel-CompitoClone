@@ -2,6 +2,7 @@
 Scrivere un programma che stampi "n" volte la stringa "Bada come la fuma"  con "n" dato in input dall'utente.
 
 NOME COGNOME DATA
+PIER NOEL ASUNCION 30/04/2023
 */
 
 # include <iostream>
